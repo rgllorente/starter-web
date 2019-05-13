@@ -17,3 +17,7 @@ Deployment of the Demo
 ## How To Contribute 
 
 Otro comentario mas
+
+### Copyright
+
+2019 Git Training.
