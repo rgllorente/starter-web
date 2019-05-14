@@ -16,7 +16,7 @@ Deployment of the Demo
 
 ## How To Contribute 
 
-Otro comentario mas
+Contribuye con buena fe y buenos dogmas pequeño padawan.
 
 ### Copyright
 
