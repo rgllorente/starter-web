@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos, con el fin de ampliar los conocimientos GIT del curso.
 Se incluye una nueva linea en la introduccion.
-
+Nuevos cambios tras un REBASE en myfeature branch
 ## Purpose
 
 Purpose of the Demo
