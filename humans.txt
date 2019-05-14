@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ricardo Gomez Llorente		rgllorente@indra.es
 
 # THANKS
 
