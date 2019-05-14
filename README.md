@@ -21,4 +21,4 @@ Contribuye con buena fe y buenos dogmas pequeño padawan.
 
 ### Copyright
 
-2019 Git Training.
+2019 Git Training. Todos los derechos reservados.
